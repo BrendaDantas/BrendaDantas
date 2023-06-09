@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Cursando Tecnologia da Informação
 - 🏫 Universidade Federal do Rio Grande do Norte
-- 📖 Atualmente estudando Java
+- 📖 Atualmente estudando JavaScrip
 
 <!--
 <div>

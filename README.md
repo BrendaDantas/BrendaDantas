@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Brenda 👋
 
-- 👩‍🎓 Cursando Bacharelado em Tecnologia da Informação
+- 👩‍🎓 Bacharel em Tecnologia da Informação
 - 🏫 Universidade Federal do Rio Grande do Norte
 - 📖 Atualmente estudando Java
 
